@@ -68,7 +68,7 @@
 
       <!-- Dashboard State -->
       <div id="mvp-dashboard-state" class="dashboard-container">
-        <div class="mvp-title">Reputation Profile</div>
+        <div class="mvp-title">RepLayer Profile</div>
         <p style="text-align:center; color:#aaa; margin-bottom: 24px; font-size: 14px;">Wallet: <span id="wallet-address" style="color:#fff"></span></p>
         
         <div class="signal-card">
