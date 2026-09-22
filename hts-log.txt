@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 22 Sep 2026 05:10:05 at https://skyai.pro/#/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://skyai.pro/#/ -O1 "C:\Users\edete\Desktop\clone\pro2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:11:45	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+05:11:45	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/ (from primary/primary)
+05:11:47	Warning: 	Retry after error -4 (No data (connection closed)) at link d1u25hizyv9jz8.cloudfront.net/favicon.png (from https://skyai.pro/)
+05:11:47	Warning: 	Retry after error -4 (Connect Error) at link https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js (from https://skyai.pro/)
+05:11:47	Warning: 	Retry after error -4 (No data (connection closed)) at link d1u25hizyv9jz8.cloudfront.net/assets/index-C_7zwRpY.js (from https://skyai.pro/)
+05:11:47	Warning: 	Retry after error -4 (No data (connection closed)) at link d1u25hizyv9jz8.cloudfront.net/assets/vendor-C1WEhNE5.js (from https://skyai.pro/)
+05:11:47	Warning: 	Retry after error -4 (No data (connection closed)) at link d1u25hizyv9jz8.cloudfront.net/assets/index-CiUWNTQL.css (from https://skyai.pro/)
+05:11:47	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/ (from primary/primary)
+05:11:50	Warning: 	Retry after error -4 (No data (connection closed)) at link d1u25hizyv9jz8.cloudfront.net/favicon.png (from https://skyai.pro/)
+05:11:51	Warning: 	Retry after error -4 (No data (connection closed)) at link d1u25hizyv9jz8.cloudfront.net/assets/index-C_7zwRpY.js (from https://skyai.pro/)
+05:11:51	Warning: 	Retry after error -4 (No data (connection closed)) at link d1u25hizyv9jz8.cloudfront.net/assets/vendor-C1WEhNE5.js (from https://skyai.pro/)
+05:11:51	Warning: 	Retry after error -4 (No data (connection closed)) at link d1u25hizyv9jz8.cloudfront.net/assets/index-CiUWNTQL.css (from https://skyai.pro/)
+05:11:51	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/ (from primary/primary)
+05:11:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link d1u25hizyv9jz8.cloudfront.net/favicon.png (from https://skyai.pro/)
+05:11:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link d1u25hizyv9jz8.cloudfront.net/assets/index-C_7zwRpY.js (from https://skyai.pro/)
+05:11:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link d1u25hizyv9jz8.cloudfront.net/assets/vendor-C1WEhNE5.js (from https://skyai.pro/)
+05:11:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link d1u25hizyv9jz8.cloudfront.net/assets/index-CiUWNTQL.css (from https://skyai.pro/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 46 seconds : 24 links scanned, 6 files written (300677 bytes overall) [106216 bytes received at 1002 bytes/sec], 300677 bytes transferred using HTTP compression in 6 files, ratio 33%
+(6 errors, 11 warnings, 0 messages)
